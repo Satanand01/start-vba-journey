@@ -666,3 +666,5 @@ In VBA, **Message Boxes** (`MsgBox`) and **Input Boxes** (`InputBox`) are common
 
 * **MessageBox** can show warnings, errors, or just informational messages based on button types and icons.
 * **InputBox** is perfect for collecting simple data from users, like names, numbers, etc.
+
+[Go to the top](#contents)
