@@ -187,4 +187,5 @@ length = Len("Hello")  ' Returns 5 (the length of the string "Hello")
 * **Objects** represent real-world entities like **workbooks**, **worksheets**, and **ranges**. They contain **properties** (data) and **methods** (actions).
 * **Methods** are actions performed on objects, like **`Range.Select`** or **`Workbook.Save`**, which perform operations but don’t return a value.
 * **Functions** are calculations that return a value, such as **`LCase`**, **`Len`**, and **`Abs`**, which process data and return results.
-  [Go to the Top](#Differences Between Function Method and Object in VBA)
+
+[Go to the Top](#differences-between-function-method-and-object-in-vba)
