@@ -92,3 +92,6 @@
 - API calls (very advanced)
 - Performance optimization (screen updating, calc mode, etc.)
 - Logging and debugging tricks
+
+- [ ] Task not completed
+- [ ] Task completed
