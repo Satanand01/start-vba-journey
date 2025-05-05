@@ -94,4 +94,4 @@
 - Logging and debugging tricks
 
 - [ ] Task not completed
-- [ ] Task completed
+- [x] Task completed
